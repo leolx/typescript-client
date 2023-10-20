@@ -1,7 +1,11 @@
 import React from 'react'
 
+
+
 export const Register = () => {
   return (
-    <div>Register</div>
+    <div className="register_bg">
+      <div className="register_head">register hello world</div>
+    </div>
   )
 }
